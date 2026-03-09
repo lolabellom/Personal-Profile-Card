@@ -15,7 +15,6 @@ body {
     padding: 20px;
     color: #e0e0e0;
     position: relative;
-    overflow: hidden;
 }
 
 body::before {
@@ -89,7 +88,7 @@ body::before {
 .profile-name {
     font-size: 28px;
     font-weight: 700;
-    color: #64b5f6;
+    color: #4098e0;
     margin-bottom: 8px;
     letter-spacing: -0.5px;
     animation: fadeInUp 1s ease-out 0.8s both;
@@ -98,7 +97,7 @@ body::before {
 .profile-lastname {
     font-size: 24px;
     font-weight: 500;
-    color: #e0e0e0;
+    color: #4098e0;
     margin-bottom: 16px;
     animation: fadeInUp 1s ease-out 1s both;
 }
